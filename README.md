@@ -119,3 +119,8 @@ Foi utilizado IA para pesquisar sobre algumas perguntas do questionário inicial
 
 ## Conclusão.
 Provavelmente mudaria a forma que eu organizava tudo, sinto que ainda peco bastante nesse aspecto.
+
+### Print de Evidências
+Mostrando o comando de requisição GET para consultar os dados do servidor com o /busca, procurando o termo "node".
+Recebe "buscou o termo: node" como resposta do servidor.
+<img src="https://media.discordapp.net/attachments/930089808037031936/1560326464694526083/image.png?ex=6ad24ec2&is=6ad0fd42&hm=9e20d1c05293884fd262342f808a65752e4f5309fe4a5334a79345f754fe464b&=&format=webp&quality=lossless" />
